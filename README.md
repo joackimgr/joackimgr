@@ -1,13 +1,13 @@
-# 💫 About Me:
+# About Me:
 I'm a Junior AI/ML Engineer with a strong interest in AI Engineering and building real-world AI-powered applications. I'm currently pursuing an M.Sc by Research in Digital Deep-Tech Driven Circular Economy, while also working on full-stack projects with React, Next.js and TypeScript
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ipantelakis) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joackim.gr@gmail.com) 
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=joackimgr&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=joackimgr&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=joackimgr&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
